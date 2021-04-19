@@ -4,7 +4,7 @@
 
 > PORT = 3000<br/>
 > NODE_ENV = Dev<br/>
-> APIPROVIDER = rapidapi<br/>
+> API_PROVIDER = rapidapi<br/>
 > REDIS_PORT = 6379<br/>
 > REDIS_HOST = localhost<br/>
 > MOVIE_LIST_EXPIRES_IN = 36000<br/>
@@ -12,9 +12,9 @@
 > PROVIDER_URL = https://imdb8.p.rapidapi.com<br/>
 > API_PROVIDER_HOST = imdb8.p.rapidapi.com<br/>
 > API_PROVIDER_USE_API_KEY = true<br/>
-> Please note that in order to start this app you will require a \*\*\*'.env'\_\*\* file in the root folder of app <br/>
 
-Movie API Provider End point and Secret key has been Configured on below path<br/>
+Please note that in order to start this app you will require a \*\*\*'.env'\_\*\* file in the root folder of app <br/>
+Movie API Provider End point and Secret key has been Configured on below file<br/>
 
 > .env
 
