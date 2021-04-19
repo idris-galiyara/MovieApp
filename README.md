@@ -22,6 +22,13 @@ for configurable BaseURl and version wise route follow below path<br/>
 
 > MovieApp > config > constant.json
 
+
+For cache redis has been use and its needs to be install on code running machine
+redis configration has been put in .env
+
+>REDIS_PORT = 6379
+>REDIS_HOST = localhost
+
 To start app please follow below commands<br/>
 
 > npm install<br/>
