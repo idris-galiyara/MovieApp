@@ -1,0 +1,9 @@
+{
+    "BASE_URL": "/themovieapp",
+    "V1" :"/v1",
+    "API": {
+      "getMovieDetails" :"/auto-complete",
+      "getVid":"/title/get-video-playback"
+    }
+  }
+  
