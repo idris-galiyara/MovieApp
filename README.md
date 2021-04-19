@@ -25,6 +25,6 @@ for configurable BaseURl and version wise route follow below path<br/>
 To start app please follow below commands<br/>
 
 > npm install<br/>
-> npm run<br/>
+> npm start<br/>
 > Postman Collection
 > https://www.getpostman.com/collections/b38bb5d4da3b768fd1e4
