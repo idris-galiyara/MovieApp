@@ -20,14 +20,14 @@ Movie API Provider End point and Secret key has been Configured on below file<br
 
 for configurable BaseURl and version wise route follow below path<br/>
 
-> MovieApp > config > constant.json
+> MovieApp > config > constant.json <br/>
 
 
 For cache redis has been use and its needs to be install on code running machine
-redis configration has been put in .env
+redis configration has been put in .env <br/>
 
->REDIS_PORT = 6379
->REDIS_HOST = localhost
+>REDIS_PORT = 6379 <br/>
+>REDIS_HOST = localhost <br/>
 
 To start app please follow below commands<br/>
 
